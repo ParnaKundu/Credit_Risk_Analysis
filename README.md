@@ -28,7 +28,7 @@ First, the data will be oversampled using 'Random Over Sampler' and 'SMOTE' algo
 *   Balanced accuracy score :   0.66
 *   Precision : 0.01 for high_risk and 1.00 for low_risk 
 *   Recall score :  0.63 for high_risk and 0.69 for low_risk
-*   F1 score : 0.02 for high_risk and 0.82 for low_risk
+*  <b> F1 score : 0.02 for high_risk and 0.82 for low_risk </b>
 
 From the low precision and F1 scores for high_risk category, it can be concluded that this model is not good to predict high_risk credit assessment.
 
