@@ -28,7 +28,7 @@ First, the data will be oversampled using 'Random Over Sampler' and 'SMOTE' algo
 *   Balanced accuracy score :   0.66
 *   Precision : 0.01 for high_risk and 1.00 for low_risk 
 *   Recall score :  0.63 for high_risk and 0.69 for low_risk
-*  <b> F1 score : 0.02 for high_risk and 0.82 for low_risk </b>
+*   <b> F1 score : 0.02 for high_risk and 0.82 for low_risk </b>
 
 From the low precision and F1 scores for high_risk category, it can be concluded that this model is not good to predict high_risk credit assessment.
 
@@ -39,7 +39,7 @@ From the low precision and F1 scores for high_risk category, it can be concluded
 *   Balanced accuracy score :   0.54
 *   Precision : 0.01 for high_risk and 1.00 for low_risk 
 *   Recall score :  0.69 for high_risk and 0.40 for low_risk
-*   F1 score : 0.01 for high_risk and 0.57 for low_risk
+*   <b> F1 score : 0.01 for high_risk and 0.57 for low_risk </b>
 
 From the low precision and F1 scores for high_risk category, it can be concluded that this model is not good to predict high_risk credit assessment.
 
@@ -50,7 +50,7 @@ From the low precision and F1 scores for high_risk category, it can be concluded
 *   Balanced accuracy score :   0.64
 *   Precision : 0.01 for high_risk and 1.00 for low_risk 
 *   Recall score :  0.71 for high_risk and 0.57 for low_risk
-*   F1 score : 0.02 for high_risk and 0.72 for low_risk
+*   <b> F1 score : 0.02 for high_risk and 0.72 for low_risk </b>
 
 Although the accuracy score and F1 score for high_risk are slightly higher in this model, yet the precision and F1 scores for high_risk category is quite low. Hence it can be concluded that this model is not good to predict high_risk credit assessment.
 
@@ -61,7 +61,7 @@ Although the accuracy score and F1 score for high_risk are slightly higher in th
 *   Balanced accuracy score :   0.79
 *   Precision : 0.03 for high_risk and 1.00 for low_risk 
 *   Recall score :  0.70 for high_risk and 0.87 for low_risk
-*   F1 score : 0.06 for high_risk and 0.93 for low_risk
+*   <b> F1 score : 0.06 for high_risk and 0.93 for low_risk </b>
 
 The accuracy score is higher in this model, as well as the precision and F1 scores for high_risk category are higher than the other models. Even so, as the F1 score is so low, it can be concluded that this model is not good to predict high_risk credit assessment.
 
@@ -72,7 +72,7 @@ The accuracy score is higher in this model, as well as the precision and F1 scor
 *   Balanced accuracy score :   0.93
 *   Precision : 0.09 for high_risk and 1.00 for low_risk 
 *   Recall score :  0.92 for high_risk and 0.94 for low_risk
-*   F1 score : 0.16 for high_risk and 0.97 for low_risk
+*   <b> F1 score : 0.16 for high_risk and 0.97 for low_risk </b>
 
 The accuracy score is much higher in this model (0.93). The precision for high_risk category is 0.16 and the recall is 0.92. These numbers combined with the F1 score of 0.16, it can be concluded that this model is a good fit amongst all others to predict high_risk credit assessment.
 
